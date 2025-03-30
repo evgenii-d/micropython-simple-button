@@ -1,6 +1,6 @@
 # MicroPython SimpleButton
 
-A simple MicroPython class for handling button presses using GPIO interrupts.
+A simple MicroPython module for handling button presses using GPIO interrupts.
 It includes debouncing and press/release callbacks.
 
 ## Features
