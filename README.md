@@ -1,6 +1,6 @@
-# MicroPython SimpleButton Module
+# MicroPython SimpleButton
 
-A simple, MicroPython class for handling button presses using GPIO interrupts.
+A simple MicroPython class for handling button presses using GPIO interrupts.
 It includes debouncing and press/release callbacks.
 
 ## Features
@@ -81,6 +81,10 @@ if __name__ == "__main__":
     main()
 
 ```
+
+### Raspberry Pi Pico Button Wiring Demo
+
+![Pico Wiring Demo](pico_wiring_demo.jpg)
 
 [1]: https://docs.micropython.org/en/latest/reference/pyboard.py.html
 [2]: https://thonny.org
