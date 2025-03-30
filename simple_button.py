@@ -1,6 +1,8 @@
 """
 A MicroPython module for handling 
 debounced button presses using interrupts.
+
+https://github.com/evgenii-d/micropython-simple-button
 """
 
 # pylint: disable=E0401:import-error
